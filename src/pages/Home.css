@@ -1,0 +1,25 @@
+
+@media only screen and (max-width: 400px) {
+    .carousselcotain {
+      height: 350px;
+    }
+  }
+  @media only screen and (min-width: 500px) {
+    .carousselcotain {
+      height: 700px;
+    }
+  }
+ 
+  @media only screen and (min-width: 767px) and (max-width: 1000px) {
+    .carousselcotain {
+      height: 140vh ;
+    }
+  }
+ 
+
+  @media only screen and (min-width: 1000px) {
+     .carousselcotain {
+        height: 130vh;
+     }
+  }
+  
